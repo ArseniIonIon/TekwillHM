@@ -2,19 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e8a10bf-f704-470f-afc8-e231c9bab312" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Lesson5/Ex12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson6/LongArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson6/ex2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson7/Ex1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson8/Ex1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson8/Ex1HM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson8/Ex2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson8/Ex3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson8/Ex4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson9/EX4HM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson9/Ex1Class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson9/Ex1HM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson9/Ex2Class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson9/Ex3HM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson9/Ex5HM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson9/Ex6HM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson9/HM2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TekwillHomeWork/Lesson5/Ex3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TekwillHomeWork/Lesson5/Ex3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TekwillHomeWork/Lesson5/Ex8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TekwillHomeWork/Lesson5/Ex8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson5/Ex3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson5/Ex3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TekwillHomeWork/Lesson8/Ex4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TekwillHomeWork/Lesson8/Ex4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson8/Ex4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson8/Ex4.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,104 +28,115 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Lesson6/LongArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Lesson6/ex2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Lesson7/Ex1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Lesson8/Ex1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Lesson8/Ex1HM.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="9" column="50" lean-forward="true" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
+              <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Lesson8/Ex2.java">
+        <entry file="file://$PROJECT_DIR$/src/Lesson8/Ex4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="134">
+              <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Lesson9/Ex2Class.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+              <folding>
+                <element signature="e#139#140#0" expanded="true" />
+                <element signature="e#200#201#0" expanded="true" />
+                <element signature="e#247#248#0" expanded="true" />
+                <element signature="e#283#284#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Lesson9/Ex1HM.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="130">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="e#135#136#0" expanded="true" />
+                <element signature="e#166#167#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Lesson9/HM2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="method#isVowel#0;class#HM2#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Lesson9/Ex5HM.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Lesson8/Ex3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+              <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+              <folding>
+                <element signature="e#76#77#0" expanded="true" />
+                <element signature="e#128#129#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Lesson8/Ex4.java">
+        <entry file="file://$PROJECT_DIR$/src/Lesson9/Ex6HM.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="25" column="2" selection-start-line="25" selection-start-column="2" selection-end-line="25" selection-end-column="2" />
+            <state relative-caret-position="68">
+              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Lesson9/Ex3HM.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Lesson9/EX4HM.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#106#107#0" expanded="true" />
+                <element signature="e#164#165#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_241/src.zip!/java/lang/String.java">
+        <entry file="file://$PROJECT_DIR$/src/Lesson9/Ex1Class.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-5697">
-              <caret line="1716" column="15" selection-start-line="1716" selection-start-column="15" selection-end-line="1716" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Lesson5/Ex11.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
-              <folding>
-                <element signature="e#187#188#0" expanded="true" />
-                <element signature="e#272#273#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="68">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -177,7 +187,16 @@
         <option value="$PROJECT_DIR$/src/Lesson8/Ex1HM.java" />
         <option value="$PROJECT_DIR$/src/Lesson8/Ex2.java" />
         <option value="$PROJECT_DIR$/src/Lesson8/Ex3.java" />
+        <option value="$PROJECT_DIR$/src/Lesson9/Ex1Class.java" />
         <option value="$PROJECT_DIR$/src/Lesson8/Ex4.java" />
+        <option value="$PROJECT_DIR$/src/Lesson9/Ex2Class.java" />
+        <option value="$PROJECT_DIR$/src/Lesson9/Ex1HM.java" />
+        <option value="$PROJECT_DIR$/src/Lesson9/HM2.java" />
+        <option value="$PROJECT_DIR$/src/Lesson9/Ex3.java" />
+        <option value="$PROJECT_DIR$/src/Lesson9/Ex3HM.java" />
+        <option value="$PROJECT_DIR$/src/Lesson9/EX4HM.java" />
+        <option value="$PROJECT_DIR$/src/Lesson9/Ex5HM.java" />
+        <option value="$PROJECT_DIR$/src/Lesson9/Ex6HM.java" />
       </list>
     </option>
   </component>
@@ -213,6 +232,12 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Lesson8" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="TekwillHomeWork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TekwillHomeWork" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Lesson9" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -235,13 +260,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Ex4">
-    <configuration name="Ex1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson8.Ex1" />
+  <component name="RunManager" selected="Application.Ex6HM">
+    <configuration name="EX4HM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson9.EX4HM" />
       <module name="TekwillHomeWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson8.*" />
+          <option name="PATTERN" value="Lesson9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -250,11 +275,11 @@
       </method>
     </configuration>
     <configuration name="Ex1HM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson8.Ex1HM" />
+      <option name="MAIN_CLASS_NAME" value="Lesson9.Ex1HM" />
       <module name="TekwillHomeWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson8.*" />
+          <option name="PATTERN" value="Lesson9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -262,12 +287,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson8.Ex2" />
+    <configuration name="Ex3HM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson9.Ex3HM" />
       <module name="TekwillHomeWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson8.*" />
+          <option name="PATTERN" value="Lesson9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -275,12 +300,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson8.Ex3" />
+    <configuration name="Ex6HM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson9.Ex6HM" />
       <module name="TekwillHomeWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson8.*" />
+          <option name="PATTERN" value="Lesson9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -288,12 +313,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson8.Ex4" />
+    <configuration name="HM2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson9.HM2" />
       <module name="TekwillHomeWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson8.*" />
+          <option name="PATTERN" value="Lesson9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -303,11 +328,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Ex4" />
-        <item itemvalue="Application.Ex3" />
-        <item itemvalue="Application.Ex2" />
-        <item itemvalue="Application.Ex1HM" />
-        <item itemvalue="Application.Ex1 (1)" />
+        <item itemvalue="Application.Ex6HM" />
+        <item itemvalue="Application.EX4HM" />
+        <item itemvalue="Application.Ex3HM" />
+        <item itemvalue="Application.HM2" />
+        <item itemvalue="Application.Ex1HM (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -337,7 +362,7 @@
     <frame x="6" y="5" width="1537" height="788" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29248476" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29248476" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
@@ -347,14 +372,14 @@
       <window_info id="DB Browser" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49424508" weight="0.3917683" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.49492213" visible="true" weight="0.39786586" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49424508" visible="true" weight="0.3917683" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49492213" weight="0.39786586" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49920887" weight="0.3277439" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49920887" weight="0.3277439" />
       <window_info anchor="bottom" id="DB Execution Console" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32861635" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3277439" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50507784" side_tool="true" weight="0.39786586" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.3292683" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -433,24 +458,6 @@
           <line>15</line>
           <properties />
           <option name="timeStamp" value="27" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lesson8/Ex4.java</url>
-          <line>18</line>
-          <properties />
-          <option name="timeStamp" value="28" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lesson8/Ex4.java</url>
-          <line>16</line>
-          <properties />
-          <option name="timeStamp" value="29" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lesson8/Ex4.java</url>
-          <line>19</line>
-          <properties />
-          <option name="timeStamp" value="30" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -791,13 +798,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lesson8/Ex1HM.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="50" lean-forward="true" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Lesson8/Ex1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -808,17 +808,101 @@
     <entry file="file://$PROJECT_DIR$/src/Lesson8/Ex3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Lesson8/Ex4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="25" column="2" selection-start-line="25" selection-start-column="2" selection-end-line="25" selection-end-column="2" />
+        <state relative-caret-position="134">
+          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson8/Ex1HM.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson9/Ex1Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson9/Ex1HM.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#135#136#0" expanded="true" />
+            <element signature="e#166#167#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson9/Ex2Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+          <folding>
+            <element signature="e#139#140#0" expanded="true" />
+            <element signature="e#200#201#0" expanded="true" />
+            <element signature="e#247#248#0" expanded="true" />
+            <element signature="e#283#284#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson9/Ex3HM.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson9/EX4HM.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#106#107#0" expanded="true" />
+            <element signature="e#164#165#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson9/HM2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="method#isVowel#0;class#HM2#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson9/Ex5HM.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding>
+            <element signature="e#76#77#0" expanded="true" />
+            <element signature="e#128#129#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson9/Ex6HM.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
         </state>
       </provider>
     </entry>
