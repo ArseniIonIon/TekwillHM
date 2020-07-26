@@ -6,7 +6,9 @@ public class BoubleSort {
 
         int i,j,temp = 0;
 
-        int [] array  = new int[] {1,4,5,3,76,12,6};
+        int [] array  = new int[] {1,4,5,3,76,12,89};
+
+        System.out.println(array.length-1);
 
 
         for (i= 0; i<array.length-1; i++){
