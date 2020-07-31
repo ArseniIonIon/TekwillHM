@@ -1,5 +1,6 @@
 package Lesson9;
 
+
 import java.util.Scanner;
 
 public class Ex6HM {
@@ -8,7 +9,7 @@ public class Ex6HM {
 // write a method here: public static ...
 // Do not change code below
     public static void main(String[] args) {
-        final Scanner scanner = new Scanner(System.in);
+        final Scanner  scanner = new Scanner(System.in);
         final String type = scanner.nextLine();
         switch (type) {
             case "long":
