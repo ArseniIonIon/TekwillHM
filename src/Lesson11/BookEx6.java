@@ -1,8 +1,6 @@
 package Lesson11;
 
 public class BookEx6 {
-
-
     String title;
     int yearOfPublishing;
     String [] authors;
