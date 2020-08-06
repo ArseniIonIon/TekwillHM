@@ -16,16 +16,17 @@ public class Ex7 {
         Ex7 ex5 = new Ex7("Jora", 13);
         Ex7 ex6 = new Ex7("Jora", 13);
         Ex7 ex7 = new Ex7("Jora", 13);
-        Ex7.getNumberOfCats();
+        System.out.println(getNumberOfCats());
 
     }
 
 
 
     public Ex7(String name, int age){
-        this.counter ++;
+
         this.name = name;
         this.age = age;
+        counter ++;
         if (counter > 5){
             System.out.println("too many cats");
 
