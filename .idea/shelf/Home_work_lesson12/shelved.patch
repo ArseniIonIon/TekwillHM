@@ -1,0 +1,61 @@
+Index: src/Lesson15/Box.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/Lesson15/Box.java	(date 1597851793000)
++++ src/Lesson15/Box.java	(date 1597851793000)
+@@ -0,0 +1,13 @@
++package Lesson15;
++
++public class Box<T> {
++
++        private T item;
++        public void put(T item) {
++            this.item = item;
++        }
++        public T get() {
++            return item;
++        }
++    }
++
+Index: src/Lesson15/Money.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/Lesson15/Money.java	(date 1597851793000)
++++ src/Lesson15/Money.java	(date 1597851793000)
+@@ -0,0 +1,32 @@
++package Lesson15;
++
++import java.util.Objects;
++
++public class Money {
++    int amount;
++    String currencyCode;
++
++    public Money(int amount, String currencyCode) {
++        this.amount = amount;
++        this.currencyCode = currencyCode;
++    }
++
++    @Override
++    public boolean equals(Object obj) {
++        if (this == obj){
++            return true;
++        }
++        if (obj == null || getClass() != obj.getClass()){
++            return false;
++        }
++        Money money = (Money) obj;
++        return amount == money.amount &&
++                currencyCode.equals(money.currencyCode);
++    }
++
++    @Override
++    public int hashCode() {
++       return Objects.hashCode(amount);
++       
++    }
++}

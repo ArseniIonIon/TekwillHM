@@ -2,49 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e8a10bf-f704-470f-afc8-e231c9bab312" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Lesson12/Ex4/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson12/Ex4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson12/Ex4/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson12/Ex4/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson12/Ex4/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson12/Ex4/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson13/Ex1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson13/Ex2/Announcement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson13/Ex2/Article.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson13/Ex2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson13/Ex2/Newspaper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson13/Ex2/Publication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson13/Ex3/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson13/Ex3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson13/Ex3/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson14/classWork/Ex1/Addition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson14/classWork/Ex1/IntBinaryOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson14/classWork/Ex1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson14/classWork/Ex1/Multiplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson14/classWork/Ex2/BaseEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson14/classWork/Ex2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson14/classWork/Ex2/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson14/classWork/Ex2/Visit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson14/classWork/Ex2/WebSite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson14/classWork/Ex4/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson14/classWork/Ex4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson14/classWork/Ex4/Movable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson14/classWork/Ex4/MutableShapes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson14/classWork/Ex4/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson14/classWork/Ex4/Scalable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson14/classWork/Ex5/Create.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson14/classWork/Ex5/RunableImp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson14/classWork/Shapes/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson14/classWork/Shapes/Cube.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson14/classWork/Shapes/Sphere.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson14/classWork/Shapes/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson14/classWork/Shapes/Tetrahedron.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson14/classWork/Shapes/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson14/classWork/reverse/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson14/classWork/reverse/StringReverse.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
+    <list id="51d82cd5-c892-45bc-bc5e-ae320ca9f48a" name="Home work lesson12" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Lesson15/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson15/Money.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/.idea/shelf/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,19 +22,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Lesson14/classWork/Ex2/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="46" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Lesson14/classWork/Ex4/Circle.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="267">
-              <caret line="30" column="22" lean-forward="true" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
+              <caret line="30" column="22" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
               <folding>
                 <element signature="e#334#335#0" expanded="true" />
                 <element signature="e#364#365#0" expanded="true" />
@@ -113,8 +69,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Lesson14/classWork/Ex5/Create.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+            <state relative-caret-position="210">
+              <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -151,25 +107,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
               <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Lesson14/classWork/Ex2/Visit.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-              <folding>
-                <element signature="e#157#158#0" expanded="true" />
-                <element signature="e#184#185#0" expanded="true" />
-                <element signature="e#222#223#0" expanded="true" />
-                <element signature="e#254#255#0" expanded="true" />
-                <element signature="e#289#290#0" expanded="true" />
-                <element signature="e#319#320#0" expanded="true" />
-                <element signature="e#366#367#0" expanded="true" />
-                <element signature="e#404#405#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -254,7 +191,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -267,41 +203,17 @@
               <item name="TekwillHM" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="TekwillHM" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TekwillHM" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson12" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TekwillHM" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TekwillHM" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson13" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TekwillHM" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TekwillHM" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="classWork" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TekwillHM" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TekwillHM" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="classWork" type="462c0819:PsiDirectoryNode" />
-              <item name="Ex5" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1597597927296" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1597851911201" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
@@ -399,6 +311,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="3e8a10bf-f704-470f-afc8-e231c9bab312" name="Default Changelist" comment="" />
+      <changelist id="51d82cd5-c892-45bc-bc5e-ae320ca9f48a" name="Home work lesson12" comment="" />
       <created>1593191557971</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -411,7 +324,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596694539125</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Home work lesson12">
+      <created>1597851767671</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1597851767672</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView">
@@ -425,9 +345,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30114448" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30114448" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
@@ -437,12 +356,12 @@
       <window_info id="DB Browser" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49213162" visible="true" weight="0.39156628" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49213162" weight="0.39156628" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49492213" weight="0.39759037" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49920887" weight="0.3277439" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4985694" weight="0.32771084" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" sideWeight="0.4985694" visible="true" weight="0.32771084" />
       <window_info anchor="bottom" id="DB Execution Console" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49928468" weight="0.32771084" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5078684" side_tool="true" visible="true" weight="0.39156628" />
@@ -634,27 +553,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Lesson12/Ex4/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lesson12/Ex3/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
-          <folding>
-            <element signature="e#324#325#0" expanded="true" />
-            <element signature="e#351#352#0" expanded="true" />
-            <element signature="e#383#384#0" expanded="true" />
-            <element signature="e#411#412#0" expanded="true" />
-            <element signature="e#478#479#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Lesson12/Ex3/Developer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -1119,7 +1017,7 @@
     <entry file="file://$PROJECT_DIR$/src/Lesson14/classWork/Ex4/Circle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="267">
-          <caret line="30" column="22" lean-forward="true" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
+          <caret line="30" column="22" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
           <folding>
             <element signature="e#334#335#0" expanded="true" />
             <element signature="e#364#365#0" expanded="true" />
@@ -1162,10 +1060,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson15/Box.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+          <folding>
+            <element signature="e#138#139#0" expanded="true" />
+            <element signature="e#198#199#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson15/Money.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="29" column="7" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Lesson14/classWork/Ex5/Create.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+        <state relative-caret-position="210">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
         </state>
       </provider>
     </entry>
