@@ -8,8 +8,10 @@ public class Ex1 {
     public static void main(String[] args) {
         ArrayList<String> arrayList = new ArrayList<>(Arrays.asList("Mr.Green, Mr.Yellow, Mr.Red"));
 
-        for (String name: arrayList) {
+        arrayList.forEach(System.out::println);
+
+       /* for (String name: arrayList) {
             System.out.println(name);
-        }
+        }*/
     }
 }

@@ -11,6 +11,7 @@ public class Ex10 {
         int days  = scanner.nextInt();
 
         LocalDate date1 = date.plusDays(days);
+
         System.out.println((date.getYear() < date1.getYear()));
 
     }

@@ -1,20 +1,30 @@
 package Lesson16;
 
 import java.util.ArrayList;
+import java.util.Iterator;
+import java.util.Set;
+import java.util.TreeSet;
 
 public class Main {
 
     public static void main(String[] args) {
 
-        ArrayList<Integer> arrayList  = new ArrayList<>();
+        Set<Integer> set  = new TreeSet<>();
 
-        arrayList.add(2);
-        arrayList.add(0);
-        arrayList.add(1);
-        arrayList.add(7);
+        set.add(2);
+        set.add(0);
+        set.add(1);
+        set.add(7);
 
+        System.out.println(set);
 
-        System.out.println(arrayList);
+        Iterator<Integer> integerIterator = set.iterator();
+        while (integerIterator.hasNext()){
+            Integer current  = integerIterator.next();
+            if (current< 10){
+                integerIterator.remove();
+            }
+        }
 
     }
 }

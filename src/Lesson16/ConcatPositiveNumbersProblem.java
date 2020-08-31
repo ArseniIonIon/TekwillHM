@@ -10,9 +10,9 @@ public class ConcatPositiveNumbersProblem {
     public static ArrayList<Integer> concatPositiveNumber(ArrayList<Integer> l1, ArrayList<Integer> l2){
         ArrayList<Integer> array = new ArrayList<>();
 
-        for (int i = 0; i <l1.size() ; i++) {
-            if (l1.get(i) >= 0) {
-                array.add(l1.get(i));
+        for (int integer: l1) {
+            if ( integer >= 0) {
+                array.add(integer);
             }
         }
         for (int i = 0; i < l2.size(); i++) {

@@ -1,6 +1,6 @@
 package Lesson14.classWork.Ex1;
 
-public class Multiplication extends IntBinaryOperation {
+public class Multiplication extends IntBinaryOperations {
 
 
     public Multiplication(int firstArg, int secondArg) {
